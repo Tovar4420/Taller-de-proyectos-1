@@ -1,0 +1,18 @@
+# Credenciales Firebase — NUNCA subir a GitHub
+backend/config/firebase_credentials.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+
+# Base de datos local (ya no se usa)
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
